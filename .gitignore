@@ -1,0 +1,27 @@
+# Log-Dateien
+*.log
+logs/
+
+# Temporäre Dateien
+*.tmp
+*.temp
+*.swp
+
+# Betriebssystem- und Editor-Dateien
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Installierte Abhängigkeiten
+node_modules/
+
+# Build- und Cache-Ordner
+dist/
+build/
+coverage/
+.cache/
+
+# Lokale Konfiguration und Zugangsdaten
+.env
+.env.local
